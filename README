@@ -1,0 +1,6 @@
+The farmer is controlled by the arrow keys / WASD, the up and down key is forward and backwards, while the left and right keys rotate the farmer counter-clockwise and clockwise.
+To open and close the fenced of areas, click on a fence with the mouse, this will make the fence go down, and after 4 seconds it will go up again if there is not sheep or farmer on top of the fence. 
+To control the sheep, you must take advantage of the fact that the sheep try to flock together, and the sheep try to keep a distance to the farmer. This can be used to “push” the sheep slowly forward.
+Camera control: we have two cameras one from the top down, and one from the perspective of the farmer. You can switch between the cameras with the space button and zoom in / out with the scroll wheel of the mouse.
+Main Scene: Scenes/SampleScene
+Show case of pathfinding and steering: Scenes/PathFindingExample
